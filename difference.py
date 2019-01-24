@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Name: difference.py
-Description:
+Description: Calculates percentage difference between 2 strings
 
 Author: Bryan Tutt
 Created: 26Nov2018
